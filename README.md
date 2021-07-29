@@ -12,8 +12,8 @@
 8. Stretch Goals 
 
 ### Resources 
-* Presentation 
-* Jira Board 
+* Presentation [link](https://qalearning-my.sharepoint.com/:p:/r/personal/epenrice_qa_com/_layouts/15/Doc.aspx?sourcedoc=%7BF988BCAB-EB25-440C-9374-5F0FB2C55469%7D&file=Presentation.pptx&wdOrigin=OFFICECOM-WEB.START.REC&ct=1627566952050&action=edit&mobileredirect=true)
+* Jira Board [link](https://testjira0.atlassian.net/jira/software/projects/TP/boards/1/backlog?selectedIssue=TP-3)
 
 ### Brief 
 
